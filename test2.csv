@@ -1,10 +1,10 @@
-Name ,Department,Salary
-Krish,Data Science,10000
-Ateeb,Web Development,15000
-Mushir,Java Developer,12500
-Umar Salmani,Android ,13500
-firoj,Graphic,18000
-Saniya ,Graphic,25000
-Adnan,Data Analytics,31000
-addu,Logo Designer,16000
-Sunny ,IOT,35000
+Name ,Age,Department,Salary
+Krish,13,Data Science,10000
+Ateeb,20,Web Development,15000
+Mushir,22,Java Developer,12500
+Umar Salmani,31,Android ,13500
+firoj,25,Graphic,18000
+Saniya ,21,Graphic,25000
+Adnan,25,Data Analytics,31000
+addu,16,Logo Designer,16000
+Sunny ,36,IOT,35000
